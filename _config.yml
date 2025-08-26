@@ -1,0 +1,31 @@
+author:
+  email: aminata.dieye748@gmail.com
+  location: Pout, Thiès, Sénégal
+  name: Aminata Dieye
+  photo: C:\Users\AMINATA\Documents\WhatsApp Image 2025-01-01 at 22.42.09.jpeg
+description: Master 1 Ingénierie des Données et Intelligence Artificielle | Passionnée
+  d'IA, analyse de données et météo
+sections:
+- content: 'Étudiante en Master 1 IIA à l’Université Iba Der Thiam, diplômée d’une
+    Licence SRT. Objectif : devenir Data Scientist.'
+  name: À propos
+- name: Projets
+  projects:
+  - description: Application pour gérer étudiants avec interface et base MySQL.
+    link: https://github.com/AminataDieye/gestion-etudiants
+    title: Gestion d’étudiants avec Python-MySQL
+  - description: Plateforme admin/client avec commandes, paiements, livraisons.
+    link: https://github.com/AminataDieye/app-commandes
+    title: Application de commande clients
+  - description: Étude des protocoles et failles VPN.
+    link: https://github.com/AminataDieye/analyse-vpn
+    title: Analyse des VPN
+  - description: Scripts Python pour analyse et visualisation de données.
+    link: https://github.com/AminataDieye/data-science
+    title: Data Science & IA
+social_links:
+  github: https://github.com/AminataDieye
+  linkedin: https://www.linkedin.com/in/aminata-dieye
+  twitter: ''
+theme: jekyll-theme-cayman
+title: Aminata Dieye - Data Scientist en devenir
